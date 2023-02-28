@@ -1,0 +1,121 @@
+@media (max-width: 1399.98px) {
+    .nav-link {
+        margin: 2px;
+    }
+    
+}
+/* done  */
+
+@media (max-width: 1199.98px) {
+    .nav-link {
+        font-size: 11px;
+    }
+      /* next  page css  */
+      .fs-title {
+        text-transform: uppercase;
+        color: var(--text3-color);
+        font-size: 15px;
+        color: black;
+        line-height: 28px;
+        padding-bottom: 0px;
+        font-weight: 700;
+    }
+    /* next page css cclose  */
+
+}
+/* done  */
+@media (max-width: 991.98px) {
+       
+        .fa-bars{
+            font-size: 20px;
+        }
+        .navbar-toggler {
+            border: none;
+            outline: none;
+            background-color: white;
+            padding: 10px 15px 10px 15px;
+            border-radius: 4px;
+        }
+        .navbar-toggler:focus
+        {
+            box-shadow: none;
+            outline: none;
+        }
+        .nav-link{
+            font-size: 14px;
+        }
+        .navbar-collapse {
+            flex-basis: 100%;
+            flex-grow: 1;
+            align-items: center;
+            padding: 10px 0px;
+        }
+        .section3 .heading h1 {
+            margin: 0px 0%;
+           
+        }
+        
+        /* nextpage css  */
+        .section2 .heading h1 {
+            margin: 0 1%;
+        }
+
+
+ }
+ /* done  */
+ @media (max-width: 767.98px) {
+    .section3 .heading h1 {
+        margin: 0px -1%;
+    }
+  
+    p{
+        text-align: center;
+    }
+
+     /* nextpage css  */
+     .section2 .heading h1 {
+        margin: 0 1%;
+        line-height: 23px;
+    }
+    #msform input, #msform textarea, #msform select, #msform option {
+        padding: 13px;
+    }
+ }
+
+
+
+
+
+
+
+ /* done  */
+ @media (max-width: 575.98px) {
+    .section1-icon {
+        padding: 15px 6px 15px 6px;
+    }
+    .section3 {
+        padding: 50px 10px 50px 10px;
+    }
+    .section3 .heading h1 {
+        font-size: 24px;
+    }
+   
+    p {
+        font-size: 18px;
+    }
+    /* nextpage css  */
+    .section2 .heading h1 {
+        margin: 0 1%;
+        line-height: 23px;
+        font-size: 24px;
+    }
+    .section2 {
+        padding: 0px;
+    }
+    .fs-title 
+    {  line-height: 23px;
+        font-size: 13px;
+    }
+ }
+
+
